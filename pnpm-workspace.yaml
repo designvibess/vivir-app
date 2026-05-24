@@ -1,0 +1,7 @@
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+  core-js: true
+  protobufjs: true
+  esbuild: true
+  msw: true

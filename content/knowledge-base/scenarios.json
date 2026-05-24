@@ -1,0 +1,114 @@
+{
+  "_note": "Founder-authored scenario seeds for the Spanish Professor pipeline. Add/edit these — no Spanish expertise needed, just Spain life knowledge. ~80 seeds targeting 12-16 per CEFR level across 4 domains. This is the ONLY human input the content pipeline needs.",
+  "_status": "scaffold — needs founder content before pipeline runs",
+  "seeds": [
+    {
+      "id": "a1-daily-bar-breakfast",
+      "cefr_level": "A1",
+      "domain": "daily_life",
+      "scenario": "You walk into a bar in Madrid at 11am and want a coffee and a small breakfast (tostada or croissant). The barman speaks quickly."
+    },
+    {
+      "id": "a1-daily-supermarket",
+      "cefr_level": "A1",
+      "domain": "daily_life",
+      "scenario": "You're at Mercadona and need to find the dairy aisle and ask if they have oat milk."
+    },
+    {
+      "id": "a1-daily-pharmacy",
+      "cefr_level": "A1",
+      "domain": "daily_life",
+      "scenario": "You have a headache and a sore throat. You go to the farmacia and need to describe your symptoms and ask for something over the counter."
+    },
+    {
+      "id": "a1-social-greetings",
+      "cefr_level": "A1",
+      "domain": "social",
+      "scenario": "You meet your neighbour in the lift for the first time. They ask you where you're from and how long you've been in Spain."
+    },
+    {
+      "id": "a1-housing-keys",
+      "cefr_level": "A1",
+      "domain": "housing",
+      "scenario": "You've just arrived at your new rented flat and the landlord is showing you around, explaining what things are and where they are."
+    },
+    {
+      "id": "a2-housing-broken-washing-machine",
+      "cefr_level": "A2",
+      "domain": "housing",
+      "scenario": "Your washing machine has broken. You need to write a WhatsApp to your landlady explaining the problem and asking when it can be fixed."
+    },
+    {
+      "id": "a2-daily-restaurant-order",
+      "cefr_level": "A2",
+      "domain": "daily_life",
+      "scenario": "You're at a restaurant with a friend. The waiter is explaining today's menú del día and you need to order, ask about allergens (gluten), and split the bill at the end."
+    },
+    {
+      "id": "a2-daily-transport-bus",
+      "cefr_level": "A2",
+      "domain": "daily_life",
+      "scenario": "You've missed your bus and need to ask a local when the next one comes and whether it stops near your destination."
+    },
+    {
+      "id": "a2-social-neighbour-noise",
+      "cefr_level": "A2",
+      "domain": "social",
+      "scenario": "Your upstairs neighbour makes noise late at night. You knock on the door to politely ask them to keep it down — in Spanish."
+    },
+    {
+      "id": "a2-work-introduction-meeting",
+      "cefr_level": "A2",
+      "domain": "work",
+      "scenario": "It's your first week at a Spanish company. You're in a team meeting and need to introduce yourself, say what you'll be working on, and ask a question."
+    },
+    {
+      "id": "b1-work-freelance-gestor",
+      "cefr_level": "B1",
+      "domain": "work",
+      "scenario": "You're freelance (autónomo) and need to ask your gestor a question about your trimestral tax filing (modelo 130). You don't understand the form."
+    },
+    {
+      "id": "b1-housing-comunidad-vecinos",
+      "cefr_level": "B1",
+      "domain": "housing",
+      "scenario": "There's a comunidad de vecinos meeting about installing a new lift in your building. You need to vote and express your opinion."
+    },
+    {
+      "id": "b1-social-sunday-lunch",
+      "cefr_level": "B1",
+      "domain": "social",
+      "scenario": "You're invited to a Spanish friend's family Sunday lunch (comida familiar). The grandmother is asking you about your life, opinions on Spain, and plans."
+    },
+    {
+      "id": "b1-daily-doctors",
+      "cefr_level": "B1",
+      "domain": "daily_life",
+      "scenario": "You have a GP appointment at the centro de salud. You need to describe ongoing back pain, answer the doctor's questions, and understand the prescription."
+    },
+    {
+      "id": "b1-work-email-complaint",
+      "cefr_level": "B1",
+      "domain": "work",
+      "scenario": "A client has complained about a delay in your project. You need to write a professional email in Spanish apologising and explaining the situation."
+    },
+    {
+      "id": "b2-social-dinner-party-debate",
+      "cefr_level": "B2",
+      "domain": "social",
+      "scenario": "You're at a dinner party and the conversation turns to Spanish politics and regional identity. You need to express nuanced opinions diplomatically."
+    },
+    {
+      "id": "b2-work-job-interview",
+      "cefr_level": "B2",
+      "domain": "work",
+      "scenario": "You're in a job interview at a Spanish company. They ask about your strengths, a time you dealt with conflict at work, and your salary expectations."
+    },
+    {
+      "id": "b2-housing-rental-negotiation",
+      "cefr_level": "B2",
+      "domain": "housing",
+      "scenario": "You want to negotiate the rent on a flat you've viewed. The landlord quoted €1,200 and you want to get to €1,050. The conversation needs to be firm but polite."
+    }
+  ]
+}
