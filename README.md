@@ -62,7 +62,7 @@ We solve this by:
 
 ## Development Workflow
 
-- **Phases:** Built in 4 phases over ~13 weeks
+- **Phases:** Built in 4 phases over ~13 weeks<br>
   👌 Phase 0: Foundations (scaffolding)
   - Phase 1: Placement test + first lesson
   - Phase 2: Learning loop, text Conversaciones, level algorithm
