@@ -62,16 +62,12 @@ We solve this by:
 
 ## Development Workflow
 
-- **Phases:** Built in 4 phases over ~13 weeks (see PRD §11)
-  - Phase 0: Foundations (scaffolding)
+- **Phases:** Built in 4 phases over ~13 weeks
+  👌 Phase 0: Foundations (scaffolding)
   - Phase 1: Placement test + first lesson
   - Phase 2: Learning loop, text Conversaciones, level algorithm
   - Phase 3: Voice, full content set, polish
   - Phase 4: Beta + launch
-
-- **Commit after each phase** with tags (`phase-0-complete`, etc.)
-- **Prompts are versioned** in `/prompts` — treat as first-class code
-- **Test AI calls before batch runs** — test on 2–3 samples before running `generate-all`
 
 ---
 
@@ -83,7 +79,7 @@ We solve this by:
 ### Monthly Running Costs (2 active users)
 - **Text-only:** ~$7.80/month (Anthropic only)
 - **With voice:** ~$12/month (Anthropic + Azure + ElevenLabs)
-- Supabase, Vercel: $0 (free tiers cover personal use)
+- Supabase, Vercel: $0 (free tier)
 
 ### Per-User Economics
 - Text: ~$3.50–4.50/month per user
